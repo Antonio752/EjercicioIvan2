@@ -1,4 +1,4 @@
-package ejercicio2;
+package ejercicio2.dominio;
 
 import java.util.Objects;
 

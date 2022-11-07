@@ -1,4 +1,6 @@
-package ejercicio2;
+package ejercicio2.Datos;
+
+import ejercicio2.dominio.Alarma;
 
 public class FactoriaAlarma {
   
